@@ -10,11 +10,10 @@ url: "https://targoniy.github.io" # the base hostname & protocol for your site, 
 
 # Banner settings
 video: cake.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
-
+banner-title: "Best cakes ever!"
+banner-desc: "Call me, I'll make you best cake ever!"
 # Author settings
-author-pic: face.jpg # your photo
+author-pic: face1.jpg # your photo
 author-name: # your name
 about-author: # about author
 email: your-email@domain.com # your email
