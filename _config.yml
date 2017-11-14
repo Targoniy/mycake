@@ -1,5 +1,5 @@
 logo: # add logo name
-title: Best cakes ever!
+title: 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,13 +9,13 @@ baseurl: "/mycake" # the subpath of your site, e.g. /blog
 url: "https://targoniy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: cake.mp4 # add banner video. Add your video file to the folder video
-banner-title: "Best cakes ever!"
-banner-desc: "Call me, I'll make you best cake ever!"
+video: provanse.jpg # add banner video. Add your video file to the folder video
+banner-title:
+banner-desc: 
 # Author settings
 author-pic: face1.jpg # your photo
-author-name: Taniya
-about-author: I'm cool girl!
+author-name: Татьяна Таргоний
+about-author: Жизнь вкусна и разнообразна!  
 email: your-email@domain.com # your email
 phone: +380-99-560-39-72 # your pnone number
 website: https://targoniy.github.io/mycake/ # you website
